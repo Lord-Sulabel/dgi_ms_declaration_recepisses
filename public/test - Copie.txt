@@ -1,0 +1,216 @@
+POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 51
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Action":"keepAlive","DeviceID":"6M00ECFPAJB720C"}POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 482
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Picture":{"CutoutPic":{"Content":"","PicName":""},"NormalPic":{"Content":"","PicName":""},"Plate":{"BoundingBox":[706,131,759,146],"Confidence":206,"IsExist":true,"PlateColor":"Yellow","PlateNumber":"55674761","PlateType":""},"SnapInfo":{"DefenceCode":"BPrndmbLjyzBPKhf","DeviceID":"6M00ECFPAJB720C","OpenStrobe":false,"SnapTime":"2000-01-01 01:18:27"},"Vehicle":{"VehicleSeries":"Unknown","VehicleSign":"Yiqi","VehicleType":"SaloonCar"},"VehiclePic":{"Content":"","PicName":""}}}POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 486
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Picture":{"CutoutPic":{"Content":"","PicName":""},"NormalPic":{"Content":"","PicName":""},"Plate":{"BoundingBox":[1376,169,1428,184],"Confidence":210,"IsExist":true,"PlateColor":"White","PlateNumber":"43454F19","PlateType":""},"SnapInfo":{"DefenceCode":"brNRXSZtRGBB1QVt","DeviceID":"6M00ECFPAJB720C","OpenStrobe":false,"SnapTime":"2000-01-01 01:18:55"},"Vehicle":{"VehicleSeries":"Unknown","VehicleSign":"Hyundai","VehicleType":"SaloonCar"},"VehiclePic":{"Content":"","PicName":""}}}POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 51
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Action":"keepAlive","DeviceID":"6M00ECFPAJB720C"}POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 483
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Picture":{"CutoutPic":{"Content":"","PicName":""},"NormalPic":{"Content":"","PicName":""},"Plate":{"BoundingBox":[735,136,783,149],"Confidence":210,"IsExist":true,"PlateColor":"White","PlateNumber":"7729BF01","PlateType":""},"SnapInfo":{"DefenceCode":"odHbDdHfLtnlXHZN","DeviceID":"6M00ECFPAJB720C","OpenStrobe":false,"SnapTime":"2000-01-01 01:20:04"},"Vehicle":{"VehicleSeries":"Unknown","VehicleSign":"Englon","VehicleType":"SaloonCar"},"VehiclePic":{"Content":"","PicName":""}}}POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 471
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Picture":{"CutoutPic":{"Content":"","PicName":""},"NormalPic":{"Content":"","PicName":""},"Plate":{"BoundingBox":[1145,139,1201,156],"Confidence":202,"IsExist":true,"PlateColor":"White","PlateNumber":"484","PlateType":""},"SnapInfo":{"DefenceCode":"RhDHNqVvfQfJRylZ","DeviceID":"6M00ECFPAJB720C","OpenStrobe":false,"SnapTime":"2000-01-01 01:21:00"},"Vehicle":{"VehicleSeries":"Unknown","VehicleSign":"GMC","VehicleType":"MPV"},"VehiclePic":{"Content":"","PicName":""}}}POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 475
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Picture":{"CutoutPic":{"Content":"","PicName":""},"NormalPic":{"Content":"","PicName":""},"Plate":{"BoundingBox":[766,119,815,132],"Confidence":210,"IsExist":true,"PlateColor":"White","PlateNumber":"940E3A01","PlateType":""},"SnapInfo":{"DefenceCode":"P1FjfidZL4L3J0Dr","DeviceID":"6M00ECFPAJB720C","OpenStrobe":false,"SnapTime":"2000-01-01 01:21:05"},"Vehicle":{"VehicleSeries":"Unknown","VehicleSign":"Benz","VehicleType":"SUV"},"VehiclePic":{"Content":"","PicName":""}}}POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 477
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Picture":{"CutoutPic":{"Content":"","PicName":""},"NormalPic":{"Content":"","PicName":""},"Plate":{"BoundingBox":[622,111,678,126],"Confidence":218,"IsExist":true,"PlateColor":"White","PlateNumber":"5861AW01","PlateType":""},"SnapInfo":{"DefenceCode":"CjnxFjn1NzJ7ZN5j","DeviceID":"6M00ECFPAJB720C","OpenStrobe":false,"SnapTime":"2000-01-01 01:21:10"},"Vehicle":{"VehicleSeries":"Unknown","VehicleSign":"Nissan","VehicleType":"SUV"},"VehiclePic":{"Content":"","PicName":""}}}POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 479
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Picture":{"CutoutPic":{"Content":"","PicName":""},"NormalPic":{"Content":"","PicName":""},"Plate":{"BoundingBox":[637,126,693,143],"Confidence":222,"IsExist":true,"PlateColor":"White","PlateNumber":"5868AW01","PlateType":""},"SnapInfo":{"DefenceCode":"ozL5XL3ZVHvN7VNL","DeviceID":"6M00ECFPAJB720C","OpenStrobe":false,"SnapTime":"2000-01-01 01:21:11"},"Vehicle":{"VehicleSeries":"Unknown","VehicleSign":"JAC","VehicleType":"MidTruck"},"VehiclePic":{"Content":"","PicName":""}}}POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 477
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Picture":{"CutoutPic":{"Content":"","PicName":""},"NormalPic":{"Content":"","PicName":""},"Plate":{"BoundingBox":[622,112,675,129],"Confidence":198,"IsExist":true,"PlateColor":"White","PlateNumber":"3207AE05","PlateType":""},"SnapInfo":{"DefenceCode":"BfdbVaTLzYPHrItJ","DeviceID":"6M00ECFPAJB720C","OpenStrobe":false,"SnapTime":"2000-01-01 01:21:42"},"Vehicle":{"VehicleSeries":"Unknown","VehicleSign":"Toyota","VehicleType":"SUV"},"VehiclePic":{"Content":"","PicName":""}}}POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 487
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Picture":{"CutoutPic":{"Content":"","PicName":""},"NormalPic":{"Content":"","PicName":""},"Plate":{"BoundingBox":[695,117,748,134],"Confidence":226,"IsExist":true,"PlateColor":"White","PlateNumber":"9934AZ01","PlateType":""},"SnapInfo":{"DefenceCode":"5ZXVPUNFtSJBlCnD","DeviceID":"6M00ECFPAJB720C","OpenStrobe":false,"SnapTime":"2000-01-01 01:21:50"},"Vehicle":{"VehicleSeries":"Unknown","VehicleSign":"Volkswagen","VehicleType":"SaloonCar"},"VehiclePic":{"Content":"","PicName":""}}}POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 476
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Picture":{"CutoutPic":{"Content":"","PicName":""},"NormalPic":{"Content":"","PicName":""},"Plate":{"BoundingBox":[763,126,815,138],"Confidence":210,"IsExist":true,"PlateColor":"White","PlateNumber":"7130C01","PlateType":""},"SnapInfo":{"DefenceCode":"hV7NrIhbJCVHfuvB","DeviceID":"6M00ECFPAJB720C","OpenStrobe":false,"SnapTime":"2000-01-01 01:22:36"},"Vehicle":{"VehicleSeries":"Unknown","VehicleSign":"Toyota","VehicleType":"SUV"},"VehiclePic":{"Content":"","PicName":""}}}POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 488
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Picture":{"CutoutPic":{"Content":"","PicName":""},"NormalPic":{"Content":"","PicName":""},"Plate":{"BoundingBox":[723,134,776,149],"Confidence":138,"IsExist":true,"PlateColor":"Yellow","PlateNumber":"8622BA0G","PlateType":""},"SnapInfo":{"DefenceCode":"DXBV7cLttAR9PCVL","DeviceID":"6M00ECFPAJB720C","OpenStrobe":false,"SnapTime":"2000-01-01 01:23:29"},"Vehicle":{"VehicleSeries":"Unknown","VehicleSign":"Volkswagen","VehicleType":"SaloonCar"},"VehiclePic":{"Content":"","PicName":""}}}POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 475
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Picture":{"CutoutPic":{"Content":"","PicName":""},"NormalPic":{"Content":"","PicName":""},"Plate":{"BoundingBox":[772,115,828,130],"Confidence":206,"IsExist":true,"PlateColor":"White","PlateNumber":"2113L106","PlateType":""},"SnapInfo":{"DefenceCode":"H3bjxQLH3cj7jyRb","DeviceID":"6M00ECFPAJB720C","OpenStrobe":false,"SnapTime":"2000-01-01 01:24:23"},"Vehicle":{"VehicleSeries":"Unknown","VehicleSign":"Audi","VehicleType":"SUV"},"VehiclePic":{"Content":"","PicName":""}}}POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 477
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Picture":{"CutoutPic":{"Content":"","PicName":""},"NormalPic":{"Content":"","PicName":""},"Plate":{"BoundingBox":[759,136,811,149],"Confidence":210,"IsExist":true,"PlateColor":"White","PlateNumber":"9038K01","PlateType":""},"SnapInfo":{"DefenceCode":"TxvtnMjZ949TxgNz","DeviceID":"6M00ECFPAJB720C","OpenStrobe":false,"SnapTime":"2000-01-01 01:24:58"},"Vehicle":{"VehicleSeries":"Unknown","VehicleSign":"Venucia","VehicleType":"SUV"},"VehiclePic":{"Content":"","PicName":""}}}POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 477
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Picture":{"CutoutPic":{"Content":"","PicName":""},"NormalPic":{"Content":"","PicName":""},"Plate":{"BoundingBox":[695,115,744,134],"Confidence":230,"IsExist":true,"PlateColor":"White","PlateNumber":"2521AV01","PlateType":""},"SnapInfo":{"DefenceCode":"eNplbdLrn17T1T1L","DeviceID":"6M00ECFPAJB720C","OpenStrobe":false,"SnapTime":"2000-01-01 01:25:41"},"Vehicle":{"VehicleSeries":"Unknown","VehicleSign":"JMC","VehicleType":"Pickup"},"VehiclePic":{"Content":"","PicName":""}}}POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 477
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Picture":{"CutoutPic":{"Content":"","PicName":""},"NormalPic":{"Content":"","PicName":""},"Plate":{"BoundingBox":[705,120,757,137],"Confidence":226,"IsExist":true,"PlateColor":"White","PlateNumber":"2521AW01","PlateType":""},"SnapInfo":{"DefenceCode":"bJjbJ2BZFuv7L6Jx","DeviceID":"6M00ECFPAJB720C","OpenStrobe":false,"SnapTime":"2000-01-01 01:25:41"},"Vehicle":{"VehicleSeries":"Unknown","VehicleSign":"JMC","VehicleType":"Pickup"},"VehiclePic":{"Content":"","PicName":""}}}POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 477
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Picture":{"CutoutPic":{"Content":"","PicName":""},"NormalPic":{"Content":"","PicName":""},"Plate":{"BoundingBox":[684,120,740,137],"Confidence":206,"IsExist":true,"PlateColor":"White","PlateNumber":"2744CH01","PlateType":""},"SnapInfo":{"DefenceCode":"jLZ3zKX3zKX77a3D","DeviceID":"6M00ECFPAJB720C","OpenStrobe":false,"SnapTime":"2000-01-01 01:26:23"},"Vehicle":{"VehicleSeries":"Unknown","VehicleSign":"Nissan","VehicleType":"SUV"},"VehiclePic":{"Content":"","PicName":""}}}POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 477
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Picture":{"CutoutPic":{"Content":"","PicName":""},"NormalPic":{"Content":"","PicName":""},"Plate":{"BoundingBox":[663,116,720,133],"Confidence":218,"IsExist":true,"PlateColor":"White","PlateNumber":"1581AA07","PlateType":""},"SnapInfo":{"DefenceCode":"zFlpv0Hv7O3XLqxP","DeviceID":"6M00ECFPAJB720C","OpenStrobe":false,"SnapTime":"2000-01-01 01:26:57"},"Vehicle":{"VehicleSeries":"Unknown","VehicleSign":"Nissan","VehicleType":"SUV"},"VehiclePic":{"Content":"","PicName":""}}}POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 51
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Action":"keepAlive","DeviceID":"6M00ECFPAJB720C"}POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 483
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Picture":{"CutoutPic":{"Content":"","PicName":""},"NormalPic":{"Content":"","PicName":""},"Plate":{"BoundingBox":[742,119,795,134],"Confidence":198,"IsExist":true,"PlateColor":"White","PlateNumber":"E02511J10","PlateType":""},"SnapInfo":{"DefenceCode":"n9rJBerNJuNTVI95","DeviceID":"6M00ECFPAJB720C","OpenStrobe":false,"SnapTime":"2000-01-01 01:28:39"},"Vehicle":{"VehicleSeries":"Unknown","VehicleSign":"ChuanQiYeMa","VehicleType":"SUV"},"VehiclePic":{"Content":"","PicName":""}}}POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 51
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Action":"keepAlive","DeviceID":"6M00ECFPAJB720C"}POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 485
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Picture":{"CutoutPic":{"Content":"","PicName":""},"NormalPic":{"Content":"","PicName":""},"Plate":{"BoundingBox":[656,120,705,133],"Confidence":206,"IsExist":true,"PlateColor":"Yellow","PlateNumber":"32BM1","PlateType":""},"SnapInfo":{"DefenceCode":"9jtFvabjtWTXVkvV","DeviceID":"6M00ECFPAJB720C","OpenStrobe":false,"SnapTime":"2000-01-01 01:30:37"},"Vehicle":{"VehicleSeries":"Unknown","VehicleSign":"Volkswagen","VehicleType":"SaloonCar"},"VehiclePic":{"Content":"","PicName":""}}}POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 51
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Action":"keepAlive","DeviceID":"6M00ECFPAJB720C"}POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 482
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Picture":{"CutoutPic":{"Content":"","PicName":""},"NormalPic":{"Content":"","PicName":""},"Plate":{"BoundingBox":[768,131,821,148],"Confidence":198,"IsExist":true,"PlateColor":"White","PlateNumber":"082BL1","PlateType":""},"SnapInfo":{"DefenceCode":"7dflvq5fjSJBlWRV","DeviceID":"6M00ECFPAJB720C","OpenStrobe":false,"SnapTime":"2000-01-01 01:32:12"},"Vehicle":{"VehicleSeries":"Unknown","VehicleSign":"Hyundai","VehicleType":"SaloonCar"},"VehiclePic":{"Content":"","PicName":""}}}POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 51
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Action":"keepAlive","DeviceID":"6M00ECFPAJB720C"}POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 479
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Picture":{"CutoutPic":{"Content":"","PicName":""},"NormalPic":{"Content":"","PicName":""},"Plate":{"BoundingBox":[1136,134,1181,149],"Confidence":202,"IsExist":true,"PlateColor":"Yellow","PlateNumber":"57341","PlateType":""},"SnapInfo":{"DefenceCode":"tvz9RmhdPiZR1w1P","DeviceID":"6M00ECFPAJB720C","OpenStrobe":false,"SnapTime":"2000-01-01 01:33:13"},"Vehicle":{"VehicleSeries":"Unknown","VehicleSign":"JMC","VehicleType":"MidTruck"},"VehiclePic":{"Content":"","PicName":""}}}
+
+
+POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 486
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Picture":{"CutoutPic":{"Content":"","PicName":""},"NormalPic":{"Content":"","PicName":""},"Plate":{"BoundingBox":[1201,142,1246,154],"Confidence":206,"IsExist":true,"PlateColor":"White","PlateNumber":"1440TY","PlateType":""},"SnapInfo":{"DefenceCode":"1N5XPQBnvSFzJEn9","DeviceID":"6M00ECFPAJB720C","OpenStrobe":false,"SnapTime":"2000-01-01 01:43:45"},"Vehicle":{"VehicleSeries":"Unknown","VehicleSign":"Chevrolet","VehicleType":"SaloonCar"},"VehiclePic":{"Content":"","PicName":""}}}POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 480
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Picture":{"CutoutPic":{"Content":"","PicName":""},"NormalPic":{"Content":"","PicName":""},"Plate":{"BoundingBox":[697,128,750,145],"Confidence":214,"IsExist":true,"PlateColor":"Black","PlateNumber":"563EL01","PlateType":""},"SnapInfo":{"DefenceCode":"DtFzRMBvJ6fxNEvX","DeviceID":"6M00ECFPAJB720C","OpenStrobe":false,"SnapTime":"2000-01-01 01:43:49"},"Vehicle":{"VehicleSeries":"Unknown","VehicleSign":"Yiqi","VehicleType":"SaloonCar"},"VehiclePic":{"Content":"","PicName":""}}}POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 482
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Picture":{"CutoutPic":{"Content":"","PicName":""},"NormalPic":{"Content":"","PicName":""},"Plate":{"BoundingBox":[1415,180,1486,199],"Confidence":174,"IsExist":true,"PlateColor":"White","PlateNumber":"193411","PlateType":""},"SnapInfo":{"DefenceCode":"rJD3hWdxV8rTXCzn","DeviceID":"6M00ECFPAJB720C","OpenStrobe":false,"SnapTime":"2000-01-01 01:43:59"},"Vehicle":{"VehicleSeries":"Unknown","VehicleSign":"Unknown","VehicleType":"Unknown"},"VehiclePic":{"Content":"","PicName":""}}}POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 479
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Picture":{"CutoutPic":{"Content":"","PicName":""},"NormalPic":{"Content":"","PicName":""},"Plate":{"BoundingBox":[598,130,650,143],"Confidence":214,"IsExist":true,"PlateColor":"White","PlateNumber":"2992A670","PlateType":""},"SnapInfo":{"DefenceCode":"zh7zhi97xEBFDkDN","DeviceID":"6M00ECFPAJB720C","OpenStrobe":false,"SnapTime":"2000-01-01 01:44:02"},"Vehicle":{"VehicleSeries":"Unknown","VehicleSign":"Foton","VehicleType":"Pickup"},"VehiclePic":{"Content":"","PicName":""}}}POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 481
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Picture":{"CutoutPic":{"Content":"","PicName":""},"NormalPic":{"Content":"","PicName":""},"Plate":{"BoundingBox":[661,112,718,129],"Confidence":218,"IsExist":true,"PlateColor":"White","PlateNumber":"6135BK01","PlateType":""},"SnapInfo":{"DefenceCode":"PbznNiDJPmLd34vr","DeviceID":"6M00ECFPAJB720C","OpenStrobe":false,"SnapTime":"2000-01-01 01:44:05"},"Vehicle":{"VehicleSeries":"Unknown","VehicleSign":"Ford","VehicleType":"SaloonCar"},"VehiclePic":{"Content":"","PicName":""}}}POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 481
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Picture":{"CutoutPic":{"Content":"","PicName":""},"NormalPic":{"Content":"","PicName":""},"Plate":{"BoundingBox":[624,127,673,142],"Confidence":210,"IsExist":true,"PlateColor":"White","PlateNumber":"3190BJ01","PlateType":""},"SnapInfo":{"DefenceCode":"2XXZbvJBpND3ZrB3","DeviceID":"6M00ECFPAJB720C","OpenStrobe":false,"SnapTime":"2000-01-01 01:45:01"},"Vehicle":{"VehicleSeries":"Unknown","VehicleSign":"Yiqi","VehicleType":"SaloonCar"},"VehiclePic":{"Content":"","PicName":""}}}POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 482
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Picture":{"CutoutPic":{"Content":"","PicName":""},"NormalPic":{"Content":"","PicName":""},"Plate":{"BoundingBox":[1156,146,1216,163],"Confidence":138,"IsExist":true,"PlateColor":"White","PlateNumber":"JMCZ","PlateType":""},"SnapInfo":{"DefenceCode":"fffhj4TN5mtHtO7n","DeviceID":"6M00ECFPAJB720C","OpenStrobe":false,"SnapTime":"2000-01-01 01:45:33"},"Vehicle":{"VehicleSeries":"Unknown","VehicleSign":"Citroen","VehicleType":"SaloonCar"},"VehiclePic":{"Content":"","PicName":""}}}
+
+POST /hids_afis_api/public/api/camera HTTP/1.1
+Connection:     keep-alive
+Content-Length: 475
+Content-Type:   application/json; charset=utf-8
+Host:           172.16.3.40:80
+
+{"Picture":{"CutoutPic":{"Content":"","PicName":""},"NormalPic":{"Content":"","PicName":""},"Plate":{"BoundingBox":[669,119,721,136],"Confidence":210,"IsExist":true,"PlateColor":"White","PlateNumber":"48E51","PlateType":""},"SnapInfo":{"DefenceCode":"7xd1lg5zhYpXnkDN","DeviceID":"6M00ECFPAJB720C","OpenStrobe":false,"SnapTime":"2000-01-01 01:46:09"},"Vehicle":{"VehicleSeries":"Unknown","VehicleSign":"JMC2","VehicleType":"Pickup"},"VehiclePic":{"Content":"","PicName":""}}}
