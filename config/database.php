@@ -83,7 +83,7 @@ return [
             'url' => env('DATABASE_URL'),
             'host' => env('DB_HOST', 'localhost'),
             //'port' => env('DB_PORT', '1433'),
-            'database' => 'dgi_ms__vehicule_vehicules',//env('DB_DATABASE', 'forge'),
+            'database' => 'dgi_ms__avis',//env('DB_DATABASE', 'forge'),
             'username' => 'sa',//env('DB_USERNAME', 'forge'),
             'password' => 'hids+1234',// env('DB_PASSWORD', ''),
             'charset' => 'UTF-8',

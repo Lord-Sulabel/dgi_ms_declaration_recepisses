@@ -19,13 +19,13 @@ use Illuminate\Support\Facades\Route;
     return $request->user();
 }); */
 
-Route::get('vehicules',[App\Http\Controllers\VehiculesController::class,'List']);
-Route::get('vehicule/{id}',[App\Http\Controllers\VehiculesController::class,'View']);
-Route::post('vehicule',[App\Http\Controllers\VehiculesController::class,'Create']);
-Route::put('vehicule/{id}',[App\Http\Controllers\VehiculesController::class,'Update']);
-Route::delete('vehicule/{id}',[App\Http\Controllers\VehiculesController::class,'Delete']);
+Route::get('avis',[App\Http\Controllers\AvisController::class,'List']);
+Route::get('avi/{id}',[App\Http\Controllers\AvisController::class,'View']);
+Route::post('avi',[App\Http\Controllers\AvisController::class,'Create']);
+Route::put('avi/{id}',[App\Http\Controllers\AvisController::class,'Update']);
+Route::put('avi_content/{id}',[App\Http\Controllers\AvisController::class,'Update_Content']);
+Route::delete('avi/{id}',[App\Http\Controllers\AvisController::class,'Delete']);
 
-Route::get('for_ids/{ids}',[App\Http\Controllers\VehiculesController::class,'ListForIds']);
 
 
 // STANDARD SERVICE API CALLS
