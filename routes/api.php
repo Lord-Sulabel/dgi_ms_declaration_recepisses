@@ -45,4 +45,9 @@ Route::group(['middleware' => ['auth:api']], function () {
 });
 */
 
+Route::get('ping',function(){
+    echo "MS AVIS ";
+    echo date("Y-m-d h:i:s");
+});
+
 

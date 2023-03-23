@@ -7,7 +7,7 @@ use Illuminate\Database\Eloquent\Model;
 use DB;
 
 
-class avis extends Model
+class TestChart extends Model
 {
     use HasFactory;
 

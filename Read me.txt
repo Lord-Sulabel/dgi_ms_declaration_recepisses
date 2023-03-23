@@ -1,0 +1,48 @@
+Title *
+ - MS AVIS
+
+
+Documentation *
+ - https://documenter.getpostman.com/view/25524211/2s93RMUaoq
+
+
+Port (deploiment en conteneur) *
+- 9038
+
+
+Description
+ - Traite la persistence et la recupération en BD
+ - Génere les données des etats de sortie 
+ - Génere les données statistiques 
+
+
+Pré-Requis 
+- PHP 8.0.x
+- Appache/Nginx ou autre serveur d'application Web
+
+
+Persistence
+- non recquise
+
+
+Installation 
+- Installez la version 8.0.x de PHP
+- Installez le server d'application 
+- Au besoin (deploiment en conteneur) configurez le pour ecouter sur le port renseigné ci-haut
+- Placer ce dossier de fichier, dans repertoire de diffusion de serveur d'application (www,htdoc,etc...) 
+- Modifiez et adaptez le fichier "config/database.php" selon votre SGBD
+
+
+Test *
+- A l'aide d'un outil de test d'API tel que Postman, 
+- Appelez la route "url_du_serveur/dgi_ms_avis/api/ping" en GET sur ce web service, 
+- si il a démmaré, il vous retournera la date et heure du serveur au format "Y-m-d h:i:s" (ex. 2023-03-14 07:42:16).
+
+
+Devellopeurs
+- Obel Y. LASU
+  obel.lasu@gmail.com
+  +243 (0) 82 411 36 41
+
+-
+-

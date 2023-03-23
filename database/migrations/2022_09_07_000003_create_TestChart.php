@@ -13,7 +13,7 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::create('dgi_avis', function (Blueprint $table) {
+        Schema::create('TestCharts', function (Blueprint $table) {
 
             $table->id();
 
@@ -39,6 +39,6 @@ return new class extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('dgi_avis');
+        Schema::dropIfExists('TestCharts');
     }
 };
