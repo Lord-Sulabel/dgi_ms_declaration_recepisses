@@ -61,22 +61,18 @@ class AvisController extends Controller
 
     public function List(Request $request){
 
-        /*$marque             = $request['marque'];
+        $cookie_name = "utilisateur";
+        $cookie_value = "Sir_Sulabel";
+        setcookie($cookie_name, $cookie_value, time() + (86400 * 30), "/"); // 86400 = 1 day
+        //setcookie($cookie_name, "", time() - 3600, "/"); // 86400 = 1 day
+
+        /*$marque           = $request['marque'];
         $numero_chassis     = $request['numero_chassis'];
         $annee_fabrication  = $request['annee_fabrication'];
         */
         $response   = array();
         $post       = new dgi_avis;
         $values     = $post;
-        /*
-        if(isset($marque)){
-            if($marque =="any" ){
-                $marque = "%";
-            }
-            $values = $values->where("marque","LIKE","%".$marque."%","AND");
-        }
-
-        */
 
         $values = $values->get();
         $values = json_decode(json_encode($values));
